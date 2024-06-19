@@ -12,7 +12,7 @@ export const SectionContent = () => {
 
 	return (
 		<div className='flex justify-around p-10 h-full bg-[#EEF7F3]'>
-			<div className='md:basis-3/5 flex flex-col md:p-10 gap-4 self-center'>
+			<div className='md:basis-3/5 flex flex-col md:p-10 gap-4 md:self-center'>
 				<div className='text-3xl md:text-7xl font-medium'>
 					{textContent.title.map((item, index) => (
 						<div key={index}>{item}</div>
