@@ -1,7 +1,9 @@
 import { Image } from '@nextui-org/image'
 import { Button } from '@nextui-org/button'
 
+// 内容
 export const SectionContent = () => {
+	// 文字内容
 	const textContent = {
 		title: ['Make Web Design ', 'Easy To', 'Develop'],
 		subtitle:

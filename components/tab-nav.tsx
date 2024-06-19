@@ -11,6 +11,7 @@ import {
 } from '@nextui-org/navbar'
 import { useState } from 'react'
 
+// 导航栏
 export const TabNav = () => {
 	// navBar选项
 	const navBarItem = [
@@ -28,12 +29,12 @@ export const TabNav = () => {
 		},
 	]
 
+	// 菜单展示State
 	const [isMenuOpen, setIsMenuOpen] = useState(false)
 
 	return (
 		<Navbar
-            shouldHideOnScroll
-            
+			shouldHideOnScroll
 			className='flex flex-row bg-black text-white p-4'
 			onMenuOpenChange={setIsMenuOpen}>
 			<NavbarContent
