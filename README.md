@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
+## 启动
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+## 参考
+https://www.figma.com/design/zPNyZ78hzX4OxlVrWJhE6U/Collection-of-20%2B-Figma-Hero-Section-Templates-(Community)?node-id=1-2772&t=IKKekorCo7XBHpfh-0
+![picture 0](images/69b4c68e613f590a8de6cb17536a34a6e6dc6acbcbd90f4c3ada9a4882d936f9.png)
+
+## 效果
+1. web基本布局
+![picture 1](images/1168bdbe0b984dd33573b7f33841f92ebedd72b211af6131b6091e85664173fd.png)
+
+2. 移动端基本布局
+![picture 2](images/eef0af3857f4b9b2913e4f080ebed46e0d93439fc1546978efe6578d906945cd.png)
+
+3. 移动端菜单适配
+![picture 3](images/ca2a439ff8247fe6cc5962d61eb446dc2619f61d6faab2c175720cedc3f338d2.png)
+
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
