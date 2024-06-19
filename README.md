@@ -13,7 +13,7 @@ https://www.figma.com/design/zPNyZ78hzX4OxlVrWJhE6U/Collection-of-20%2B-Figma-He
 
 ## 效果
 
-1. web 基本布局
+1. web 基本布局 (替换部分元素)
    ![picture 1](images/1168bdbe0b984dd33573b7f33841f92ebedd72b211af6131b6091e85664173fd.png)
 
 2. 移动端基本布局
